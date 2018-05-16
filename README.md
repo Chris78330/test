@@ -1,4 +1,5 @@
 # test
 Test
 Premiere modif
-Modifié depuis GitHup
+Modifié depuis GitHub
+puis machine locale
